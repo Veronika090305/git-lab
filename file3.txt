@@ -2,3 +2,5 @@
 Здесь будет описание приложения. 
 Изменение из ветки feature-merge 
 Изменение из ветки feature-rebase 
+patch line 1 
+patch line 2 
